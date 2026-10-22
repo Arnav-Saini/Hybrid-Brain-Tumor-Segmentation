@@ -1,0 +1,13 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Heavy Data & Checkpoints
+dataset/raw/
+checkpoints/
+*.pth
+
+# OS generated files
+.DS_Store
+Thumbs.db
